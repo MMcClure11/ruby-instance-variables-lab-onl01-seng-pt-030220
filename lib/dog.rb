@@ -15,7 +15,9 @@
 
 # puts lassie.name 
 
-
+class Dog
+  
+end
 
 
 
